@@ -38,13 +38,13 @@ HEIGHT=30
 WIDTH=60
 CHOICE_HEIGHT=20
 
-image[xray]="teddysun/xray:25.3.6"
-image[sing-box]="gzxhwq/sing-box:1.11.8"
-image[nginx]="nginx:1.27.5"
-image[certbot]="certbot/certbot:v4.0.0"
-image[haproxy]="haproxy:3.1.7"
+image[xray]="teddysun/xray:25.8.3"
+image[sing-box]="gzxhwq/sing-box:1.12.1"
+image[nginx]="nginx:1.29.1"
+image[certbot]="certbot/certbot:v4.2.0"
+image[haproxy]="haproxy:3.2.4"
 image[python]="python:3.13-alpine"
-image[wgcf]="virb3/wgcf:2.2.26"
+image[wgcf]="virb3/wgcf:2.2.28"
 
 defaults[transport]=tcp
 defaults[domain]=www.google.com
