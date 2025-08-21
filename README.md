@@ -66,7 +66,7 @@ And then you will see management menu in your terminal:
 
 You can also enable Telegram bot with `--enable-tgbot` option and manage users from with your Telegram bot ([More Info](#telegram-bot))
 <p align="center">
-<img src="https://github.com/aleskxyz/reality-ezpz/WhoYa/39186039/7e31383a-e00b-426e-9324-6d58f36e7da0" width="300">
+<img src="https://github.com/aleskxyz/reality-ezpz/aleskxyz/39186039/7e31383a-e00b-426e-9324-6d58f36e7da0" width="300">
 </p>
 
 Help message of the script:
